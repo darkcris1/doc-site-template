@@ -9,7 +9,7 @@ Just focus on writing the documentation about your project and this template wil
 - Create a folder and paste this commands in terminal
 
 ```bash
-npx degit "darkcris1/docs-site-template
+npx degit "darkcris1/doc-site-template
 npm install
 ```
 
